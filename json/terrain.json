@@ -1,0 +1,77 @@
+{
+      "type_terrain": 0,
+      "prix_m2_min": "4.50$",
+      "prix_m2_max": "7.00$",
+      "lotissements": [
+        {
+          "description": "lot 1",
+          "nombre_droits_passage": 3,
+          "nombre_services": 0,
+          "superficie": 365,
+          "date_mesure": "2014-11-22"
+        },
+        {
+          "description": "lot 2",
+          "nombre_droits_passage": 4,
+          "nombre_services": 0,
+          "superficie": 475,
+          "date_mesure": "2015-09-04"
+        },
+        {
+          "description": "lot 3",
+          "nombre_droits_passage": 2,
+          "nombre_services": 0,
+          "superficie": 500,
+          "date_mesure": "2012-04-19"
+        },
+        {
+          "description": "lot 4",
+          "nombre_droits_passage": 3,
+          "nombre_services": 0,
+          "superficie": 365,
+          "date_mesure": "2014-11-22"
+        },
+        {
+          "description": "lot 5",
+          "nombre_droits_passage": 4,
+          "nombre_services": 0,
+          "superficie": 475,
+          "date_mesure": "2015-09-04"
+        },
+        {
+          "description": "lot 6",
+          "nombre_droits_passage": 2,
+          "nombre_services": 0,
+          "superficie": 500,
+          "date_mesure": "2012-04-19"
+        },
+        {
+          "description": "lot 7",
+          "nombre_droits_passage": 3,
+          "nombre_services": 0,
+          "superficie": 365,
+          "date_mesure": "2014-11-22"
+        },
+        {
+          "description": "lot 8",
+          "nombre_droits_passage": 4,
+          "nombre_services": 0,
+          "superficie": 475,
+          "date_mesure": "2015-09-04"
+        },
+        {
+          "description": "lot 9",
+          "nombre_droits_passage": 2,
+          "nombre_services": 0,
+          "superficie": 500,
+          "date_mesure": "2012-04-19"
+        },
+        {
+          "description": "lot 10",
+          "nombre_droits_passage": 4,
+          "nombre_services": 0,
+          "superficie": 475,
+          "date_mesure": "2015-09-04"
+        }
+      ]
+}
